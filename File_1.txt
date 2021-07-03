@@ -1,1 +1,2 @@
 1. Pierwsza linijka tekstu w naszym pliku i pierwszy sensowny commit. 
+2. Druga linijka tekstu i drugi commit
